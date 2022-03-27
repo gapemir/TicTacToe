@@ -175,4 +175,5 @@ int main() {
         cls();
     }
     cout << endl;
+    cin >> size;
 }
